@@ -1,3 +1,4 @@
+#!/bin/sh
 # Easy install
 echo "Allright. Let's go!"
 sudo cp -r Paper-elementary /usr/share/icons/Paper-elementary
